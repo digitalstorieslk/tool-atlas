@@ -1,0 +1,15 @@
+TOOL ATLAS — SETUP
+
+1. Extract this ZIP. Upload index.html and every other HTML file together in the same website folder. Upload robots.txt to the website root if this is a root-hosted site.
+2. Replace or confirm the contact email before publishing.
+3. Domain-specific canonical URLs, og:url and sitemap.xml require your real base URL, including any hosting subfolder. They are intentionally not populated with a fake domain.
+4. Register the live site in Search Console and submit a sitemap using the final URLs.
+5. AdSense: use the verification method shown in your own dashboard. No publisher ID, live ad script or ads.txt entry has been invented. Add the exact ads.txt record supplied by Google at the website root when instructed.
+6. Before enabling ads or analytics, update privacy disclosures to the actual setup. Configure Google-certified consent management where required for EEA, UK and Switzerland ad serving. A decorative cookie banner is not a substitute.
+7. Add your own genuine screenshots and evaluation results after testing tools. The included exercises and fictional examples are not measured benchmarks.
+8. Test the hosted site on mobile, check internal links and verify indexing. Approval and revenue are not guaranteed.
+
+Official reference pages:
+https://support.google.com/adsense/answer/7299563
+https://support.google.com/adsense/answer/10502938
+https://support.google.com/adsense/answer/13554116

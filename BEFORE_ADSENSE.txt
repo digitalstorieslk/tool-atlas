@@ -1,0 +1,9 @@
+REMAINING ITEMS BEFORE APPLYING
+
+1. Confirm the real public website URL. Canonical URLs and sitemap require this URL; configure_domain.py is included for that task. Ask for assistance using your live link if you do not use Python.
+2. Review all articles and add genuine firsthand screenshots, results and observations where you have actually tested the tools. Existing fictional exercises are labelled and must not be presented as measured outcomes.
+3. Check the live site on a phone, open every navigation link and confirm no hosting sign-in blocks visitors or crawlers.
+4. Confirm contact details and publisher information.
+5. Before enabling advertising, update the privacy policy to the actual ad setup and configure required consent.
+6. Use the verification method and ads.txt entry supplied by your own AdSense dashboard. No account details are invented in these files.
+7. Approval is assessed by Google. This package does not guarantee approval, indexing or revenue.
